@@ -1,10 +1,6 @@
-# ANSA scraping
+# ANSA rss feed scraper
 
-- RSS.xml unico per categoria (Url separati)
+This is a simple library to fetch and parse rss data from Ansa's website (http://www.ansa.it/sito/static/ansa_rss.html)
 
-- Elementi
--- Title
--- Description
--- Link
--- PubDate
-
+Necessary modules:
+-feedparser
